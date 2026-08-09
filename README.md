@@ -3,7 +3,7 @@ My first web development project: A single-page Curriculum Vitae using semantic 
 
 A clean, structured, and semantic single-page Curriculum Vitae (CV) built using pure HTML. 
 
-This project is part of the [roadmap.sh](https://roadmap.sh/) Frontend Developer roadmap.
+This project is part of the (https://roadmap.sh/projects/single-page-cv) Frontend Developer roadmap.
 
 ## 🚀 About the Project
 The goal of this project is to practice laying out a professional webpage structure using only HTML. It focuses on clean semantic tags, proper content hierarchy, and web best practices without any CSS styling yet.
