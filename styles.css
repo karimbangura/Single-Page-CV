@@ -44,3 +44,8 @@ h1{
     text-transform: lowercase;
     margin-top: auto;
 }
+
+.skills_list{
+    color: #b22222;
+    font-family:'Times New Roman', Times, serif;
+}
