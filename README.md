@@ -17,9 +17,3 @@ The goal of this project is to practice laying out a professional webpage struct
 ## 🛠️ Built With
 * **HTML5** - The core language used to structure the content.
 
-## 📂 Project Structure
-```text
-single-page-cv/
-│
-├── index.html       # Main HTML file containing the CV structure
-└── README.md        # Documentation file for the project
